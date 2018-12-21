@@ -1,6 +1,7 @@
 ##ignore this file##
 /target/ 
 
+.gradle
 .idea
 .classpath
 .project
